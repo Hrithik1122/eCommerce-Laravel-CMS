@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h2>{{__('messages.new_order')}}</h2>
+	<table>
+		<tbody>
+			 <tr>
+			 	 <th>{{__('messages.cus_name')}}</th>
+			 	 <td>{{$user['customer_name']}}</td>
+			 </tr>
+			  <tr>
+			 	 <th>{{__('messages.order_amount')}}</th>
+			 	 <td>{{$user['order_amount']}}</td>
+			 </tr>
+		</tbody>
+	</table>
+</body>
+</html>

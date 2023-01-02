@@ -1,0 +1,14 @@
+[02-Jun-2020 12:42:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/freaktemplate/public_html/ecommerce/public/upload/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/freaktemplate/public_html/ecommerce/public/upload/index.php on line 14
+[02-Jun-2020 12:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/freaktemplate/public_html/ecommerce/public/upload/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/freaktemplate/public_html/ecommerce/public/upload/index.php on line 14
+[02-Jun-2020 12:43:46 UTC] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/freaktemplate/public_html/ecommerce/public/upload/index.php(1) : eval()'d code on line 280
+[02-Jun-2020 12:57:23 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/freaktemplate/public_html/ecommerce/public/upload/index.php(1) : eval()'d code on line 2265
+[02-Jun-2020 12:57:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/freaktemplate/public_html/ecommerce/public/upload/index.php(1) : eval()'d code on line 2265
+[02-Jun-2020 12:59:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/freaktemplate/public_html/ecommerce/public/upload/Function_Inc_main.php(1) : eval()'d code on line 2265
+[02-Jun-2020 13:00:45 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/freaktemplate/public_html/ecommerce/public/upload/Function_Inc_main.php on line 2265
+[02-Jun-2020 13:01:08 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/freaktemplate/public_html/ecommerce/public/upload/Function_Inc_main.php on line 2265
