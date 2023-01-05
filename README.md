@@ -12,7 +12,7 @@
 
 2-Configure the Database(application/config/database.php)
 
-3-Configure the config file(application/config/config.php)
+3-Configure the config file(.env)
 
 ## Configuration
 Email configuration : 
@@ -24,9 +24,9 @@ Email configuration :
 ## Admin Dashboard
 To access the admin dashboard (yourprojecturl/auth/login)
 
-#Username :admin@gmail.com
+### Username: admin@gmail.com
 
-#Password:123
+### Password: 123
 ## Note :
 
 The database is an .sql file in the root folder of the project, it might take some time because it contains a huge amount of data, import the file in your database and wait for it.
