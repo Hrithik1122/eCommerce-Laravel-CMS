@@ -8,19 +8,16 @@
 
 ## Installation
 
-1-Clone the project to your htdocs directory
+1- Clone the project to your htdocs directory
 
-2-Configure the Database(config/database.php)
+2- Configure the Database(config/database.php)
 
-3-Configure the Database file(.env)
+3- Configure the Database file(.env)
 
 ## Configuration
-Email configuration : 
--Configure the email configuration file(application/config/email.php) for the forgotten password and validating register with the email
+Email configuration:- Configure the email configuration file(config/mail.php) for the forgotten password and validating register with the email
 
--PayPal configuration : 
-
--Configure your sandbox.paypal account or your paypal account (application/modules/parametres_web/controllers/Parametre_web.php)
+-PayPal configuration :- Configure your sandbox.paypal account or your paypal account (application/modules/parametres_web/controllers/Parametre_web.php)
 ## Admin Dashboard
 To access the admin dashboard (yourprojecturl/auth/login)
 
