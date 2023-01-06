@@ -10,9 +10,9 @@
 
 1-Clone the project to your htdocs directory
 
-2-Configure the Database(application/config/database.php)
+2-Configure the Database(config/database.php)
 
-3-Configure the config file(.env)
+3-Configure the Database file(.env)
 
 ## Configuration
 Email configuration : 
