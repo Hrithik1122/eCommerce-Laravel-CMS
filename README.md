@@ -8,11 +8,13 @@
 
 ## Installation
 
-1- Clone the project to your htdocs directory
+Step 1- Clone the project to your htdocs directory
 
-2- Configure the Database(config/database.php)
+Step 2. Unzip the vendor.zip file
 
-3- Configure the Database file(.env)
+Step 3- Configure the Database(config/database.php)
+
+Step 4- Configure the Database file(.env)
 
 ## Configuration
 Email configuration:- Configure the email configuration file(config/mail.php) for the forgotten password and validating register with the email
